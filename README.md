@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Artem Lysenko</h1>
 <h3 align="center">Developer begginer from Kaliningrad, Russia</h3>
 
-<img align="right" alt="Coding" width = "500" src ="https://thumbs.gfycat.com/AngelicBowedBream-size_restricted.gif">
+<img float: right; alt="Coding" width = "500" src ="https://thumbs.gfycat.com/AngelicBowedBream-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemklg&label=Profile%20views&color=0e75b6&style=flat" alt="artemklg" /> </p>
 
