@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Artem Lysenko</h1>
-<h3 align="center">Developer begginer from Kaliningrad, Russia</h3>
+<h3 align="center">Developer from Kaliningrad, Russia</h3>
 
 <img align="right" alt="Coding" width = "500" src ="https://thumbs.gfycat.com/AngelicBowedBream-size_restricted.gif">
 
